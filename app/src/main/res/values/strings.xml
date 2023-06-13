@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tumpi</string>
+    <string name="slogan">Make it easy</string>
+    <string name="welcome">Welcome</string>
+    <string name="User">User</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+
+    <!-- Login Strings -->
+    <string name="fill_form_text">Enter your information below</string>
+    <string name="login">Login</string>
+    <string name="remember_me">Remember me</string>
+    <string name="password_forget">Forgot password?</string>
+    <string name="do_not_have_account">Don´t have an account?</string>
+    <string name="create_account">Create new account</string>
+    <string name="email_format_error">Please add a valid email</string>
+    <string name="password_length_error">The password needs at least 8 characters</string>
+
+</resources>
